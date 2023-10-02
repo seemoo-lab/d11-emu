@@ -1,0 +1,13 @@
+%arch 15
+%start entry
+
+entry:
+    jzx 0,0, 0xAA, 0xAA, L1 //jump
+    jzx 8, 0xF, 0x01, 0xAA, L1 //not
+    jzx 0, 0xF, 0x00, 0x1, L1 //jump
+    jnzx 0,0, 0xAA, 0xAA, L1 //not
+    jnzx 8, 0xF, 0x01, 0xAA, L1 //jump
+    jnzx 0, 0xF, 0x00, 0x1, L1 //not
+    @0	@0, @0, @0
+L1:
+    @0	@0, @0, @0

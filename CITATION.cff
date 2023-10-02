@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Link"
+  given-names: "Jakob"
+  affiliation: Secure Mobile Networking Lab
+- family-names: "Breuer"
+  given-names: "David"
+  affiliation: Secure Mobile Networking Lab
+- family-names: "Gringoli"
+  given-names: "Francesco"
+  affiliation: University of Brescia
+- family-names: "Hollick"
+  given-names: "Matthias"
+  affiliation: Secure Mobile Networking Lab
+title: "D11emu: A BCM43 D11 Emulation Framework"
+date-released: 2023-10-02
+url: "https://github.com/seemoo-lab/d11-emu"
+license: GPL-3.0
+type: software

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="240pt"
+   height="92.934219pt"
+   viewBox="0 0 84.666666 32.785127"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="emu_state_extract.svg"
+   inkscape:export-filename="emu_state_extract_plain.svg"
+   inkscape:export-xdpi="71.814812"
+   inkscape:export-ydpi="71.814812"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="pt"
+     showgrid="true"
+     showguides="false"
+     inkscape:zoom="2.5005013"
+     inkscape:cx="160.96772"
+     inkscape:cy="94.381074"
+     inkscape:window-width="1512"
+     inkscape:window-height="916"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer6">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132"
+       originx="-3.8793103"
+       originy="-6.9445851"
+       spacingx="0.66145831"
+       spacingy="0.66145831"
+       empspacing="4"
+       units="pt"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Background"
+     transform="matrix(0.95844214,0,0,0.64095742,-1.0264008,-1.8374214)">
+    <rect
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.289186;stroke-linecap:round;stroke-linejoin:round"
+       id="rect2843"
+       width="88.337791"
+       height="51.150238"
+       x="1.0709053"
+       y="2.8666823"
+       inkscape:label="background" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="raspi"
+     style="display:inline"
+     transform="translate(-1.0264008,-1.8374214)">
+    <rect
+       style="display:inline;fill:#e5e5e5;stroke:#030405;stroke-width:0.352778;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect3620"
+       width="31.088541"
+       height="27.78125"
+       x="8.9296865"
+       y="6.6145835"
+       inkscape:label="soc background" />
+    <rect
+       style="display:inline;fill:#f5c0da;fill-opacity:1;stroke:#dc267f;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6275"
+       width="28.442707"
+       height="13.229165"
+       x="9.921875"
+       y="19.84375"
+       ry="0.05013264" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Semi-Bold';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;display:inline;stroke-width:0.264583"
+       x="5.9779105"
+       y="5.2419286"
+       id="text3676"
+       inkscape:label="raspi"><tspan
+         sodipodi:role="line"
+         id="tspan3674"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52777px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Semi-Bold';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="5.9779105"
+         y="5.2419286">Raspberry Pi 3 Model B+ </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52777px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Semi-Bold';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="5.9779105"
+         y="9.6516409"
+         id="tspan1158" /></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#030405;stroke-width:0.352778;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect3586-5"
+       width="25.796875"
+       height="3.96875"
+       x="11.244791"
+       y="7.9375"
+       inkscape:label="nexutil+"
+       ry="1.9683716e-07" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#030405;stroke-width:0.352876;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect3586-5-7"
+       width="25.796875"
+       height="3.9687498"
+       x="11.244791"
+       y="14.552084"
+       inkscape:label="nexutil+" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#030405;stroke-width:0.352876;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect3586-5-7-9"
+       width="25.796875"
+       height="3.3072917"
+       x="54.901039"
+       y="18.520832"
+       inkscape:label="nexutil+" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#030405;stroke-width:0.352778;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect3586-5-8-5-7"
+       width="25.796875"
+       height="3.9687507"
+       x="11.244791"
+       y="27.781248"
+       inkscape:label="nexutil+" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#030405;stroke-width:0.352778;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect3586-5-8-5-7-5"
+       width="25.796875"
+       height="3.9687498"
+       x="11.244791"
+       y="21.166666"
+       inkscape:label="nexutil+" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:0;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;display:inline;stroke-width:0.264583"
+       x="24.14852"
+       y="11.131459"
+       id="text3576-6"
+       inkscape:label="nexutil"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="24.14852"
+         y="11.131459"
+         id="tspan3582-2">Nexutil</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:0;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;display:inline;stroke-width:0.264583"
+       x="45.566193"
+       y="8.7271833"
+       id="text3576-6-3"
+       inkscape:label="nexutil"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Italic';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="45.566193"
+         y="8.7271833"
+         id="tspan3582-2-2">SSH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:0;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;display:inline;stroke-width:0.264583"
+       x="24.183355"
+       y="17.746483"
+       id="text3576-6-0"
+       inkscape:label="nexutil"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         x="24.183355"
+         y="17.746483"
+         id="tspan3582-2-5">brcmfmac</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:0;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;display:inline;stroke-width:0.264583"
+       x="-20.505207"
+       y="5.2916665"
+       id="text3576-6-0-4"
+       inkscape:label="nexutil"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         x="-20.505207"
+         y="5.2916665"
+         id="tspan3582-2-5-8">modified firmware</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:0;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;display:inline;stroke-width:0.264583"
+       x="24.181152"
+       y="24.360624"
+       id="text3576-6-2"
+       inkscape:label="nexutil"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="24.181152"
+         y="24.360624"
+         id="tspan3582-2-7">FullMAC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:0;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;display:inline;stroke-width:0.264583"
+       x="24.268461"
+       y="30.90333"
+       id="text3576-6-7"
+       inkscape:label="nexutil"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="24.268461"
+         y="30.90333"
+         id="tspan3582-2-9">D11</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#dc267f;stroke-width:0.352778;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.2833239,19.84375 C 6.3678741,19.81354 7.6218656,26.458333 6.298949,26.458333"
+       id="path7625"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#dc267f;stroke-width:0.352778;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.2833239,33.072916 C 6.3686532,33.103471 7.6340245,26.207496 6.298949,26.458333"
+       id="path7625-8"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <path
+     style="display:inline;fill:#ffffff;stroke:#030405;stroke-width:0.176389;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     d="m 23.116828,10.06883 -1.322917,0.661458 h 0.661458 v 1.322917 h -0.661458 l 1.322917,0.661458 1.322916,-0.661458 h -0.661458 v -1.322917 h 0.661458 z"
+     id="path4154-3-8-3"
+     sodipodi:nodetypes="ccccccccccc" />
+  <path
+     style="display:inline;fill:#ffffff;stroke:#030405;stroke-width:0.176389;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     d="m 23.116828,16.683413 -1.322917,0.661458 h 0.661458 v 1.322917 h -0.661458 l 1.322917,0.661458 1.322916,-0.661458 h -0.661458 v -1.322917 h 0.661458 z"
+     id="path4154-3-8-3-5"
+     sodipodi:nodetypes="ccccccccccc" />
+  <path
+     style="display:inline;fill:#ffffff;stroke:#030405;stroke-width:0.176389;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     d="m 23.116828,23.297996 -1.322917,0.661458 h 0.661458 v 1.322917 h -0.661458 l 1.322917,0.661458 1.322916,-0.661458 h -0.661458 v -1.322917 h 0.661458 z"
+     id="path4154-3-8-3-0"
+     sodipodi:nodetypes="ccccccccccc" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="host"
+     transform="translate(-1.0264008,-1.8374214)">
+    <rect
+       style="display:inline;fill:#e5e5e5;stroke:#030405;stroke-width:0.352778;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect3620-9"
+       width="31.75"
+       height="27.78125"
+       x="50.932289"
+       y="6.6145835"
+       inkscape:label="soc background" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;display:inline;stroke-width:0.264583"
+       x="55.359699"
+       y="5.1713734"
+       id="text1154"
+       inkscape:label="host"><tspan
+         sodipodi:role="line"
+         id="tspan1152"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.52777px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Semi-Bold';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="55.359699"
+         y="5.1713734">Host Computer</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#030405;stroke-width:0.352778;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect3586"
+       width="25.796873"
+       height="10.583333"
+       x="53.578125"
+       y="7.9375"
+       inkscape:label="emu"
+       ry="1.9683716e-07" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#030405;stroke-width:0.352778;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect3586-4"
+       width="25.796873"
+       height="10.583333"
+       x="53.578125"
+       y="21.166666"
+       inkscape:label="emu" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:0;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;display:inline;stroke-width:0.264583"
+       x="66.47744"
+       y="14.438751"
+       id="text3576"
+       inkscape:label="emu"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="66.47744"
+         y="14.438751"
+         id="tspan3578">Emulator</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="66.47744"
+         y="16.643608"
+         id="tspan3582" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:0;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;display:inline;stroke-width:0.264583"
+       x="66.484497"
+       y="25.46703"
+       id="text3576-1"
+       inkscape:label="emu"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="66.484497"
+         y="25.46703"
+         id="tspan3578-7">D11 Debug</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="66.484497"
+         y="29.876741"
+         id="tspan4168">Controller</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="66.484497"
+         y="32.0816"
+         id="tspan3582-1" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="interconnections"
+     style="display:inline"
+     transform="translate(-1.0264008,-1.8374214)">
+    <path
+       style="display:inline;fill:#ffffff;stroke:#030405;stroke-width:0.176389;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 52.916665,10.583334 v 0.661458 L 53.578123,9.9218752 52.916665,8.5989586 v 0.6614583 l -15.213542,1e-7 V 8.5989587 l -0.661458,1.3229165 0.661458,1.3229168 v -0.661458 h 8.598959 V 23.8125 c 2.645833,0 4.712627,0.0034 6.614583,0 v 0.661458 l 0.661458,-1.322916 -0.661458,-1.322917 v 0.661458 H 47.624998 V 10.583334 Z"
+       id="path4154-2-9-8"
+       sodipodi:nodetypes="cccccccccccccccccccc"
+       inkscape:label="path4154-2" />
+  </g>
+</svg>
